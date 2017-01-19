@@ -19,7 +19,7 @@
   "author": "danlanxiaohei",
   "license": "MIT",
   "dependencies": {
-    "monocle": "^1.1.51",
+    "monocle": "danlanxiaohei/monocle",
     "node-schedule": "^1.2.0"
   },
   "devDependencies": {
