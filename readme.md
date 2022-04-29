@@ -3,12 +3,6 @@
 
 ### 开始
 
-<iframe  
- height=850 
- width=90% 
- src="http://mctool.wangmingchang.com/index/jspay/dashang"  
- frameborder=0  
- allowfullscreen>
- </iframe>
+<h1>qwer</h1>
  
  ### 结束
